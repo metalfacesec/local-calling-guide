@@ -1,0 +1,19 @@
+{
+  "name": "local-calling-guide",
+  "version": "1.0.0",
+  "description": "Library for interacting with the localcallingguide.com XML query interface",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metalfacesec/local-calling-guide.git"
+  },
+  "author": "Sean M",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/metalfacesec/local-calling-guide/issues"
+  },
+  "homepage": "https://github.com/metalfacesec/local-calling-guide#readme"
+}
